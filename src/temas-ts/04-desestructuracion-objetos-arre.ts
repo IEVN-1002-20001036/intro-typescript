@@ -32,7 +32,7 @@ console.log('El cantante es: $(Reproductor.detalles.autor)');
 const{volumen,segundo,cancion,detalles}=reproductor 
 const{autor}=detalles 
 
-console.log(`El volumen actual es: ${volumen}`); 
+console.log(`El volumen actual ess: ${volumen}`); 
 console.log(`Los segudos son: ${segundo}`); 
 console.log(`El canatnte actual es: ${autor}`); 
 
