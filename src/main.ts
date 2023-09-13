@@ -1,5 +1,6 @@
 import './styles/main.css'
-import './temas-ts/declaracion_variables'
+import './temas-ts/03-funciones'
+
 
 
 export default document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
