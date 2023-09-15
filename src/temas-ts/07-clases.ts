@@ -44,3 +44,4 @@ class Persona3{
         console.log(`Nombre: ${this.nombre} Edad: ${this.edad}`);
     }
 }
+
