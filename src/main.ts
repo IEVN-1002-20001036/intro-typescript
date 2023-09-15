@@ -1,5 +1,5 @@
 import './styles/main.css'
-import './temas-ts/03-funciones'
+import './temas-ts/07-clases.ts'
 
 
 
